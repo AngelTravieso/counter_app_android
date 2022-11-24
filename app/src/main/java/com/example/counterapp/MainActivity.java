@@ -52,6 +52,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public int resetCounter() {
-        return 0;
+        return counter = 0;
     }
 }
